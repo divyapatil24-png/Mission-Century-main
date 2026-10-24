@@ -1,0 +1,23 @@
+# ninja log v5
+12	4411	7996766352737857	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	964ff8bb137b47f7
+103	714	7996766315792106	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4d99bd0671d09535
+716	989	7996766318556891	C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2m6n182m/obj/armeabi-v7a/libswappywrapper.so	cefe5fd15cf3d03
+50	3898	7996766347578738	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c19409ae13da014d
+76	4048	7996766349064423	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4cb8a1c467ce312c
+1	3924	7996766347903280	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	53caf361c3d0b8b3
+25	4188	7996766350435530	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	18934203d666b70a
+88	3961	7996766348205908	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e04b8c206254c3e3
+38	4105	7996766349627177	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b2be1985d58c36bd
+63	4325	7996766351905742	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7555a25164e888c6
+4411	4565	7996766354339595	C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2m6n182m/obj/armeabi-v7a/libgame.so	a82959babea98ae4
+197	1045	8033187680679415	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4d99bd0671d09535
+1046	1504	8033187685250630	C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2m6n182m/obj/armeabi-v7a/libswappywrapper.so	cefe5fd15cf3d03
+158	5029	8033187719943320	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c19409ae13da014d
+70	5056	8033187720795127	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	53caf361c3d0b8b3
+135	5136	8033187721191729	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e04b8c206254c3e3
+178	5177	8033187721874436	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4cb8a1c467ce312c
+53	5291	8033187723089279	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b2be1985d58c36bd
+87	5334	8033187723494123	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	18934203d666b70a
+109	5458	8033187724800150	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7555a25164e888c6
+21	5605	8033187726243612	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	964ff8bb137b47f7
+5606	5895	8033187729109937	C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2m6n182m/obj/armeabi-v7a/libgame.so	a82959babea98ae4

@@ -1,0 +1,8 @@
+C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/.utmp/RelWithDebInfo/2m6n182m/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/.utmp/RelWithDebInfo/2m6n182m/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/.utmp/RelWithDebInfo/2m6n182m/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/.utmp/RelWithDebInfo/2m6n182m/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/.utmp/RelWithDebInfo/2m6n182m/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/.utmp/RelWithDebInfo/2m6n182m/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/.utmp/RelWithDebInfo/2m6n182m/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/Omkar/OneDrive/Desktop/myproject/Mission century/.utmp/RelWithDebInfo/2m6n182m/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

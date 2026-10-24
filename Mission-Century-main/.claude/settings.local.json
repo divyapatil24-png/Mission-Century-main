@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__UnityMCP__manage_prefabs",
+      "mcp__UnityMCP__manage_camera",
+      "mcp__UnityMCP__execute_code",
+      "mcp__UnityMCP__manage_scene",
+      "mcp__UnityMCP__refresh_unity",
+      "mcp__UnityMCP__read_console",
+      "mcp__UnityMCP__execute_menu_item",
+      "mcp__UnityMCP__batch_execute",
+      "mcp__UnityMCP__manage_components",
+      "Read(//c/c/Users/Omkar/OneDrive/Desktop/myproject/**)",
+      "Read(//c/c/Users/Omkar/OneDrive/Desktop/myproject/Mission century/**)",
+      "Read(//c/c/Users/Omkar/OneDrive/Desktop/myproject/Mission century/Packages/**)",
+      "Bash(claude mcp *)",
+      "mcp__UnityMCP__manage_asset"
+    ]
+  }
+}
